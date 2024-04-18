@@ -5,5 +5,4 @@
 monastr@mail.sacredheart.edu | ryanmonast21@gmail.com | https://www.linkedin.com/in/ryanmonast/<br />
 ferrerar2@mail.sacredheart.edu | https://www.linkedin.com/in/rudy-ferrera-04013826a<br />
 
-<br />
-__To Be Updated__
+_To Be Updated_
