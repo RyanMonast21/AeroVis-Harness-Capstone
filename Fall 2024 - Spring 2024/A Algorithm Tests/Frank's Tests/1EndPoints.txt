@@ -1,5 +1,0 @@
-"""Start with predefined start and end points"""
-
-A (0,70)
-B (99,39)
-
