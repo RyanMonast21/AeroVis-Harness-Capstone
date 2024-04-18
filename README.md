@@ -9,5 +9,4 @@ _To Be Updated_
 <br/>
 
 #### Applications
-  Unity 2020.3 <br/>
-  Visual Studio 2019 
+  Unity 2020.3.48f1 <br/>
