@@ -7,5 +7,6 @@ ferrerar2@mail.sacredheart.edu | https://www.linkedin.com/in/rudy-ferrera-040138
 <br/>
 
 #### Applications
-  Unity 2020.3.48f1 <br/>
-  Mixed Reality Feature Tool
+  Unity v2022.3.45f1 <br/>
+  Mixed Reality Feature Tool (MRTK) v3 <br/>
+  Visual Studio 2022
