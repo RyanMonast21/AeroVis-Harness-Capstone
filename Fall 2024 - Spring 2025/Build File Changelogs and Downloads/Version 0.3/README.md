@@ -1,6 +1,6 @@
 # AeroVis Development Version 0.3 [TBD]
 ## In Progress:
-- Canvas trackiong and locking.
+- Canvas tracking and locking.
 - Canvas display fixing.
 - LiDAR Rendering.
 ## Key Additions:
