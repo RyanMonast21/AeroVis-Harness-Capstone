@@ -1,10 +1,10 @@
-# AeroVis Development Version 0.1
+# AeroVis Development Version 0.2
 ## Key Additions:
 - Functional hand menu.
 - Basic canvas rendering.
 ### Next Version:
 - Bug Fixes (See Below).
-#### Bugs:
+#### Known Bugs:
 - No head tracking.
 - Hand clipping around menu.
 - Canvas does not properly display image as intended with LiDAR.
