@@ -2,9 +2,9 @@
 ## **Harness Capstone work done by Ryan Monast and Rudy Ferrera during the Fall 2024 - Spring 2025 Semesters.**
 
 ### Inquiry Contact: <br/>
-ferrerar2@mail.sacredheart.edu | https://www.linkedin.com/in/rudy-ferrera-04013826a<br/>
+[Rudy's Email](ferrerar2@mail.sacredheart.edu) | [Rudy's LinkedIn](https://www.linkedin.com/in/rudy-ferrera-04013826a)<br/>
 
-monastr@mail.sacredheart.edu | ryanmonast21@gmail.com | https://www.linkedin.com/in/ryanmonast/<br/>
+[Ryan's School Email](monastr@mail.sacredheart.edu) | [Ryan's Personal Contact](ryanmonast21@gmail.com) | [Ryan's LinkedIn](https://www.linkedin.com/in/ryanmonast/)<br/>
 
 <br/>
 
