@@ -1,4 +1,4 @@
-# AeroVis Development Version 0.3 [TBD]
+# AeroVis Development Version 0.3
 ## In Progress:
 - Vuforia Barcode Initialization.
 - Canvas tracking and locking.
