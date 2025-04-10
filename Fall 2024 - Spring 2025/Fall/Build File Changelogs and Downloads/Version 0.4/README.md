@@ -1,4 +1,4 @@
-# AeroVis Development Version 0.34
+# AeroVis Development Version 0.4
 ## In Progress:
 - Schematic display overhaul.
 - Advancing Vuforia integration.
